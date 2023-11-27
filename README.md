@@ -38,6 +38,9 @@ A Brazilian Software Engineer.
 
 <div>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="25px" alt="VSCode icon" title="VSCode editor"/>
+    <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" width="25px" alt="Git icon" title="Git"/>
+    <img src="https://appunix.com.br/wp-content/uploads/2010/10/Ubuntu.png" width="25px" alt="Ubuntu icon" title="Ubuntu linux OS"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/2048px-Google_Chrome_icon_%28February_2022%29.svg.png" width="25px" alt="Chrome icon" title="Chrome browser"/>
 </div>
 
 
